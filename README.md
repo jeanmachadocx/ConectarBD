@@ -1,18 +1,17 @@
-## Getting Started
+## Bem vindo ao meu projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
+Este projeto foi feito com o intuito de testar minhas habilidades na linguagem Java. 
+A conexão ao banco de dados MYSQL é feita através do JDBC " O JDBC é uma API que reúne conjuntos de classes e interfaces escritas na linguagem Java na qual possibilita se conectar através de um driver específico do banco de dados desejado."
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Dentro desse workspace temos 3 aquivos. <br> DAO > Responsável por gerenciar a conexão com o data source para cadastrar informações. <br> Conexao > Onde testamos a conexão através do try catch. <br> Entidades > Usuario = Criação do objeto Usuario e encapsulamento dos dados. <br>Entidades > Main = Definição dos dados.
+- `lib`: Driver utilizado. (Os drivers são os componentes que processam solicitações ODBC e retornam dados ao aplicativo).
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Obrigado por visitar meu projeto.
+
